@@ -9,8 +9,9 @@ appearance:
   #color: zinc
   #mode: dark
   theme_day: minimal
-  theme_night:
+  theme_night: dark
   font: native
+  #font: Georgia
   font_size: L
 
 
