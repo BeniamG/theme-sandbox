@@ -6,10 +6,13 @@
 # Appearance
 
 appearance:
+  #color: zinc
+  #mode: dark
   theme_day: minimal
   theme_night:
   font: native
   font_size: L
+
 
 # SEO
 
